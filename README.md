@@ -1,4 +1,4 @@
 # AppAutoProject
 
-hello
+nihao
 world
